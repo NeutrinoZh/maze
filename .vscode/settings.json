@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "Library/": true,
+        "Temp/": true,
+        "**/*.meta": true,
+        "**/*.csproj": true,
+        "**/*.sln": true,
+    },
+    "dotnet.defaultSolution": "GetOutOfThisDungeon.sln"
+}
