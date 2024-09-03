@@ -3,8 +3,10 @@
         "Library/": true,
         "Temp/": true,
         "**/*.meta": true,
-        "**/*.csproj": true,
-        "**/*.sln": true,
     },
-    "dotnet.defaultSolution": "GetOutOfThisDungeon.sln"
+    "dotnet.defaultSolution": "GetOutOfThisDungeon.sln",
+    "cSpell.words": [
+        "Initializable",
+        "Zenject"
+    ]
 }
